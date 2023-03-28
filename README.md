@@ -1,6 +1,10 @@
 
 
 # Support Express: A Customer Service Chat Application with Wait Queue Management
+
+
+![](ChatApp.png)
+
 ## Introduction
 
 Support Express is a customer service chat application designed to streamline the support experience for both customers and agents. The application is built using modern web technologies, including React for the Agent and Customer/Client interfaces, and Node.js for the server component. With Support Express, customers can connect with an available agent through live chat and receive quick and effective support.
